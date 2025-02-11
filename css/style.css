@@ -34,6 +34,10 @@ header {
     
 } */
 
+button {
+    display: none;
+}
+
 /* Main */
 main {
     background-color: green;
@@ -47,14 +51,18 @@ footer {
     background-color: blue;
     position: fixed;
     width: 100%;
+    bottom: 0px;
 }
 
 /* Debug (Da disattivare) */
-main,
 header {
-    height: 650px;
+    height: calc(85%);
+}
+
+main {
+    padding-bottom: 140%;
 }
 
 footer {
-    height: calc(100% - 650px);
+    height: calc(15%);
 }
