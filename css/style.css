@@ -29,3 +29,9 @@ main {
     position: relative;
     left: calc(13%);
 }
+
+/* Debug (Da disattivare) */
+main, 
+header {
+    height: 700px;
+}
