@@ -30,6 +30,13 @@ main {
     left: calc(13%);
 }
 
+/* Footer */
+footer {
+    background-color: blue;
+    padding-bottom: calc(15%);
+    
+}
+
 /* Debug (Da disattivare) */
 main, 
 header {
