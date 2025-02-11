@@ -35,10 +35,15 @@ footer {
     background-color: blue;
     position: fixed;
     z-index: 2;
+    width: 100%;
 }
 
 /* Debug (Da disattivare) */
 main,
 header {
-    height: 700px;
+    height: 650px;
+}
+
+footer {
+    height: calc(100% - 650px);
 }
