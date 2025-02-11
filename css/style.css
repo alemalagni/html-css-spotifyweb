@@ -5,14 +5,14 @@
     box-sizing: border-box;
 }
 
-/* Body */
-body {
-    background-color: rgb(60, 59, 59);
-}
-
 /* Utilities classes */
 .row {
     display: flex;
+}
+
+/* Body */
+body {
+    background-color: rgb(60, 59, 59);
 }
 
 /* Header */
