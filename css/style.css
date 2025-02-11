@@ -22,6 +22,18 @@ header {
     position: fixed;
 }
 
+.playlist {
+    display: none;
+}
+
+.lap {
+    display: none;
+}
+
+/* .logo {
+    
+} */
+
 /* Main */
 main {
     background-color: green;
