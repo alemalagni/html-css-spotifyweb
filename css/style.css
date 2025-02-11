@@ -26,4 +26,6 @@ header {
 main {
     background-color: green;
     width: calc(87%);
+    position: relative;
+    left: calc(13%);
 }
