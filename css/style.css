@@ -1,3 +1,11 @@
+/* Reset */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* Body */
 body {
-    background-color: aqua;
+    background-color: rgb(60, 59, 59);
 }
