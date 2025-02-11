@@ -16,11 +16,11 @@ body {
 }
 
 /* Menù */
-.menù {
+header {
     background-color: red;
 }
 
 /* Schermata Principale */
-.schermata {
+main {
     background-color: green;
 }
