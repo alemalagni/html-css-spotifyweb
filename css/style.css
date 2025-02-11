@@ -10,17 +10,17 @@ body {
     background-color: rgb(60, 59, 59);
 }
 
-/* Main */
+/* Utilities classes */
 .row {
     display: flex;
 }
 
-/* Menù */
+/* Header */
 header {
     background-color: red;
 }
 
-/* Schermata Principale */
+/* Main */
 main {
     background-color: green;
 }
