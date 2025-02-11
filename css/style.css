@@ -18,9 +18,11 @@ body {
 /* Header */
 header {
     background-color: red;
+    width: calc(13%);
 }
 
 /* Main */
 main {
     background-color: green;
+    width: calc(87%);
 }
