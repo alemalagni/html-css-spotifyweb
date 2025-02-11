@@ -33,12 +33,12 @@ main {
 /* Footer */
 footer {
     background-color: blue;
-    padding-bottom: calc(15%);
-    
+    position: fixed;
+    z-index: 2;
 }
 
 /* Debug (Da disattivare) */
-main, 
+main,
 header {
     height: 700px;
 }
