@@ -9,3 +9,18 @@
 body {
     background-color: rgb(60, 59, 59);
 }
+
+/* Main */
+.row {
+    display: flex;
+}
+
+/* Menù */
+.menù {
+    background-color: red;
+}
+
+/* Schermata Principale */
+.schermata {
+    background-color: green;
+}
