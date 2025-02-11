@@ -33,6 +33,7 @@ header {
 .logo {
     src: url("../img/logo-small.svg");
     padding-bottom: 15px;
+    color: #f9f9f9;
 }
 
 button {
