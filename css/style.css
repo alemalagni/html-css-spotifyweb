@@ -30,9 +30,10 @@ header {
     display: none;
 }
 
-/* .logo {
-    
-} */
+.logo {
+    src: url("../img/logo-small.svg");
+    padding-bottom: 15px;
+}
 
 button {
     display: none;
