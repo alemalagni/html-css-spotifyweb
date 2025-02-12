@@ -22,7 +22,7 @@
 header {
     background-color: red;
     justify-content: space-between;
-    width: 1440px;
+    max-width: 1440px;
     margin: 0px auto;
 }
 
@@ -34,7 +34,7 @@ header {
 /* Main */
 main {
     background-color: gray;
-    width: 1440px;
+    max-width: 1440px;
     margin: 0px auto;
 }
 
