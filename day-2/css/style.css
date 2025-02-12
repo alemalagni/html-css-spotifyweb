@@ -61,8 +61,15 @@ a {
 .elenco {
     align-items: center;
     padding: 0px 15px;
-    border-left: 4px solid greenyellow;
+    border-left: 4px solid #000000;
     margin: 20px 5px;
+    opacity: 75%;
+}
+
+.elenco.selezionato {
+    border-left: 4px solid greenyellow;
+    color: #ffffff;
+    opacity: 100%;  
 }
 
 h4.elenco{
