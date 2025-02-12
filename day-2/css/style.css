@@ -54,6 +54,15 @@ a {
 .icona {
     width: 25%;
 }
+/* Schermata */
+.selezione {
+    list-style: none;
+    text-transform: uppercase;
+}
+
+.selezione > li > div {
+    border-bottom: 2px solid greenyellow;
+}
 
 /* Footer */
 footer {
