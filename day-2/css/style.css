@@ -20,17 +20,22 @@
 /* Header */
 header {
     background-color: red;
+    justify-content: space-between;
 }
 
 .logo {
-    background-color: white;
-    padding-bottom: 20px;
-    mask-image: url("../img/logo.svg");
+    padding: 20px 0px;
+    width: 15%;
 }
 
 /* Main */
 main {
     background-color: yellow;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: blue;
 }
 
 /* Footer */
