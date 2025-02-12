@@ -87,9 +87,16 @@ header {
     mask-image: url("../img/download.svg");
 }
 
+.bordo-account {
+    background-color: gray;
+    padding: 10px 0px;
+    border-radius: 50%;
+}
+
 .icona.account {
     background-color: #ffffff;
     mask-image: url("../img/profile.svg");
+    margin: 0px auto;
 }
 
 /* Main */
