@@ -4,7 +4,8 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: "Montserrat", serif;
-    font-optical-sizing: auto;   
+    font-optical-sizing: auto;
+    color: #ffffff;   
 }
 
 /* Utilities classes */
