@@ -31,12 +31,15 @@ header {
 }
 
 .icona {
-    width: 30px;
+    width: 50px;
+    height: 50px;
+    background-color: #5e5e5e;
+    margin: 0px auto;
+    mask-size: cover;
 }
 
 .icona.home {
     mask-image: url("../img/home.svg");
-    mask-size: cover;
 }
 
 /* Main */
