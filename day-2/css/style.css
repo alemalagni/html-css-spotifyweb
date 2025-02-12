@@ -83,6 +83,8 @@ span {
 .icona-logo {
     background-color: #ffffff;
     mask-image: url("../img/logo-small.svg");
+    padding-bottom: 50px;
+    mask-repeat: no-repeat;
 }
 
 .icona.home {
@@ -156,7 +158,6 @@ footer {
     height: calc(85%);
 }
 
-header,
 footer {
     height: calc(15%);
 }
