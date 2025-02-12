@@ -30,6 +30,10 @@ header {
     display: none;
 }
 
+.icona {
+    width: 30px;
+}
+
 .icona.home {
     mask-image: url("../img/home.svg");
     mask-size: cover;
