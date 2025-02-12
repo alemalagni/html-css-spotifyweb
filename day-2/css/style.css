@@ -86,8 +86,19 @@ ul {
 .raccolta > h3 {
     padding-bottom: 15px;
 }
+
 .raccolta > div > ul {
     flex-wrap: wrap;
+}
+
+.raccolta > div > ul > li {
+    padding-bottom: 30px;
+}
+
+.raccolta > div > ul > li > div > span{
+    font-weight: bold;
+    font-size: 10px;
+    color: lightgray
 }
 
 .musica {
