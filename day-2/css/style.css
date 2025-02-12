@@ -10,6 +10,11 @@
     display: flex;
 }
 
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
 /* Body */
 body {
     background-color: #151922;
@@ -21,6 +26,7 @@ header {
     background-color: #000000;
     width: calc(13%);
     position: fixed;
+    justify-content: space-between;
 }
 
 .playlist {
@@ -32,12 +38,11 @@ header {
 }
 
 .icona {
-    width: 45px;
-    height: 45px;
+    width: calc(75%);
+    height: 25px;
     background-color: #5e5e5e;
-    margin: 0px auto;
+    margin: 0px 3px 10px 3px;
     mask-size: cover;
-    margin-bottom: 10px;
 }
 
 .icona.home {
@@ -83,8 +88,4 @@ header {
 
 footer {
     height: calc(15%);
-}
-
-.sotto {
-    margin-top: calc(450%);
 }
