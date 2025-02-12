@@ -87,6 +87,12 @@ ul {
     padding-bottom: 15px;
 }
 
+.raccolta > span {
+    font-weight: bold;
+    font-size: 10px;
+    color: lightgray
+}
+
 .raccolta > div > ul {
     flex-wrap: wrap;
 }
@@ -109,6 +115,7 @@ ul {
 
 .musica > img {
     width: 100%;
+    margin-bottom: 10px;
 }
 
 /* Footer */
