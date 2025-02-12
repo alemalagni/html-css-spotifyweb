@@ -45,8 +45,9 @@ a {
 }
 .elenco {
     align-items: center;
-    padding: 15px;
-    border-left: 2px solid greenyellow;
+    padding: 0px 15px;
+    border-left: 4px solid greenyellow;
+    margin: 20px 5px;
 }
 
 .icona {
