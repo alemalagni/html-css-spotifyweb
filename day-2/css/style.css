@@ -37,6 +37,20 @@ main {
 /* Sidebar */
 .sidebar {
     background-color: blue;
+    width: 230px;
+}
+
+a {
+    text-decoration: none;
+}
+.elenco {
+    align-items: center;
+    padding: 15px;
+    border-left: 2px solid greenyellow;
+}
+
+.icona {
+    width: 25%;
 }
 
 /* Footer */
