@@ -31,10 +31,11 @@ header {
 
 /* Main */
 main {
-    background-color: yellow;
+    background-color: gray;
 }
 
 /* Sidebar */
+/* Sopra */
 .sidebar {
     background-color: blue;
     width: 230px;
