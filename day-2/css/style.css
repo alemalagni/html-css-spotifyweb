@@ -48,6 +48,7 @@ main {
 a {
     text-decoration: none;
 }
+
 .elenco {
     align-items: center;
     padding: 0px 15px;
@@ -55,9 +56,19 @@ a {
     margin: 20px 5px;
 }
 
-.icona {
-    width: 25%;
+h4.elenco{
+    margin-top: 30px;
 }
+
+.lap {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.icona {
+    width: 15%;
+}
+
 /* Schermata */
 .schermata {
     flex-grow: 1;
