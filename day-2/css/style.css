@@ -30,7 +30,7 @@ header {
 /* Sidebar */
 .sidebar {
     background-color: #000000;
-    width: calc(13%);
+    width: 50px;
     position: fixed;
     justify-content: space-between;
 }
@@ -83,10 +83,6 @@ span {
 .icona-logo {
     background-color: #ffffff;
     mask-image: url("../img/logo-small.svg");
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width: calc(25%);
-    padding-bottom: calc(25%);
 }
 
 .icona.home {
@@ -136,12 +132,12 @@ footer {
 
 /* Responsive */
 @media screen and (min-width: 992px) {
-    .icona.logo {
+    .icona-logo {
         mask-image: url("../img/logo.svg");
     }
 
     .sidebar {
-        width: calc(25%);
+        width: 230px;
     }
 
     .lap{
@@ -160,6 +156,7 @@ footer {
     height: calc(85%);
 }
 
+header,
 footer {
     height: calc(15%);
 }
