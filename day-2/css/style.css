@@ -22,8 +22,8 @@ body {
     background-color: #151922;
 }
 
-/* Header */
-header {
+/* Sidebar */
+.sidebar {
     background-color: #000000;
     width: calc(13%);
     position: fixed;
@@ -129,7 +129,7 @@ footer {
 
 /* Responsive */
 @media screen and (min-width: 992px) {
-    header {
+    .sidebar {
         width: calc(25%);
     }
 
@@ -145,7 +145,7 @@ footer {
 }
 
 /* Debug (Da disattivare) */
-header {
+.sidebar {
     height: calc(85%);
 }
 
