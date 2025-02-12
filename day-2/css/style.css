@@ -46,7 +46,6 @@ header {
 
 /* Main */
 main {
-    background-color: gray;
     max-width: 1440px;
     margin: 0px auto;
 }
@@ -118,7 +117,7 @@ ul {
 .raccolta > span {
     font-weight: bold;
     font-size: 10px;
-    color: lightgray
+    color: #7d7f84
 }
 
 .raccolta > div > ul {
@@ -132,7 +131,7 @@ ul {
 .raccolta > div > ul > li > div > span{
     font-weight: bold;
     font-size: 10px;
-    color: lightgray
+    color: #7d7f84
 }
 
 .musica {
