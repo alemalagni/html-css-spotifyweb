@@ -24,6 +24,7 @@ header {
     justify-content: space-between;
     max-width: 1440px;
     margin: 0px auto;
+    align-items: center;
 }
 
 .logo {
@@ -32,7 +33,11 @@ header {
 }
 
 .upgrade {
-    padding: 5px;
+    padding: 7px 25px;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    font-weight: bold;
+    font-size: 10px;
 }
 
 /* Main */
