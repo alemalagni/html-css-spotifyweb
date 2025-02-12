@@ -21,12 +21,16 @@ body {
 }
 
 /* Header */
-/* Sopra */
 header {
     background-color: #000000;
     width: calc(13%);
     position: fixed;
     justify-content: space-between;
+}
+
+/* Sopra */
+.sopra{
+    height: calc(50%);
 }
 
 .playlist {
@@ -39,10 +43,12 @@ header {
 
 .icona {
     width: calc(75%);
-    height: 25px;
+    padding-bottom: calc(75%);
     background-color: #5e5e5e;
-    margin: 0px 3px 10px 3px;
+    margin: 0px auto;
+    margin-bottom: 10px;
     mask-size: cover;
+    
 }
 
 .icona.home {
