@@ -128,7 +128,10 @@ ul {
 /* Footer */
 footer {
     background-color: green;
-    max-width: 1440px;
+    padding-right: 1440px;
     padding-bottom: 80px;
-    margin: 0px auto;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
