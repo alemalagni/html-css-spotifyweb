@@ -30,8 +30,9 @@ header {
     display: none;
 }
 
-.pulsante{
-    width: calc(85%);
+.icona.home {
+    mask-image: url("../img/home.svg");
+    mask-size: cover;
 }
 
 /* Main */
