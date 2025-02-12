@@ -16,3 +16,18 @@
     display: flex;
     flex-direction: column;
 }
+
+/* Header */
+header {
+    background-color: red;
+}
+
+/* Main */
+main {
+    background-color: yellow;
+}
+
+/* Footer */
+footer {
+    background-color: green;
+}
