@@ -125,6 +125,10 @@ footer {
 
 /* Responsive */
 @media screen and (min-width: 992px) {
+    header {
+        width: calc(25%);
+    }
+
     .lap{
         display: inline;
     }
