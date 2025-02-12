@@ -52,7 +52,13 @@ header {
     mask-image: url("../img/libreria.svg");
 }
 /* Sotto */
+.icona.download {
+    mask-image: url("../img/download.svg");
+}
 
+.icona.account {
+    mask-image: url("../img/profile.svg");
+}
 
 /* Main */
 main {
