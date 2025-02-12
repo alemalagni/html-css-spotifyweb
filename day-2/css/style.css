@@ -71,6 +71,7 @@ ul {
     text-transform: uppercase;
     margin: 0px auto;
     justify-content: center;
+    padding-bottom: 30px;
 }
 
 .selezione > li > div {
@@ -78,6 +79,13 @@ ul {
     margin: 0px 12px;
 }
 
+.raccolta {
+    margin-left: 25px;
+}
+
+.raccolta > h3 {
+    padding-bottom: 15px;
+}
 .musica {
     width: 175px;
     text-align: center;
