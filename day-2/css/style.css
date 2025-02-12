@@ -65,6 +65,8 @@ header {
 .icona.logo {
     background-color: #ffffff;
     mask-image: url("../img/logo-small.svg");
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .icona.home {
