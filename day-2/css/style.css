@@ -22,6 +22,11 @@ body {
     background-color: #151922;
 }
 
+/* Header */
+header {
+    background-color: #000000;
+}
+
 /* Sidebar */
 .sidebar {
     background-color: #000000;
@@ -75,11 +80,13 @@ span {
     mask-size: cover;  
 }
 
-.icona.logo {
+.icona-logo {
     background-color: #ffffff;
     mask-image: url("../img/logo-small.svg");
     margin-top: 20px;
     margin-bottom: 20px;
+    width: calc(25%);
+    padding-bottom: calc(25%);
 }
 
 .icona.home {
@@ -129,6 +136,10 @@ footer {
 
 /* Responsive */
 @media screen and (min-width: 992px) {
+    .icona.logo {
+        mask-image: url("../img/logo.svg");
+    }
+
     .sidebar {
         width: calc(25%);
     }
