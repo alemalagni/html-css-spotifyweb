@@ -62,6 +62,7 @@ a {
 
 .selezione > li > div {
     border-bottom: 2px solid greenyellow;
+    margin: 0px 12px;
 }
 
 /* Footer */
