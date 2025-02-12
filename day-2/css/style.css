@@ -63,8 +63,11 @@ a {
     flex-grow: 1;
 }
 
-.selezione {
+ul {
     list-style: none;
+}
+
+.selezione {
     text-transform: uppercase;
     margin: 0px auto;
     justify-content: center;
@@ -73,6 +76,15 @@ a {
 .selezione > li > div {
     border-bottom: 2px solid greenyellow;
     margin: 0px 12px;
+}
+
+.musica {
+    width: 175px;
+    text-align: center;
+}
+
+.musica > img {
+    width: 100%;
 }
 
 /* Footer */
