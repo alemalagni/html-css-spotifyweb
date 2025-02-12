@@ -37,6 +37,10 @@ a {
     align-items: center;
 }
 
+span {
+    font-size: 20px;
+}
+
 /* Sopra */
 .sopra{
     height: calc(50%);
@@ -135,8 +139,8 @@ footer {
     }
 
     .icona {
-        width: calc(45%);
-        padding-bottom: calc(45%);
+        width: calc(25%);
+        padding-bottom: calc(25%);
         margin: 0px;
     }
 }
