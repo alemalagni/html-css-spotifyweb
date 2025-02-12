@@ -107,12 +107,21 @@ ul {
     margin: 0px auto;
     justify-content: center;
     padding-bottom: 30px;
-    color: #7d7f84;
 }
 
 .selezione > li > div {
-    border-bottom: 2px solid #adff2f;
+    border-bottom: 2px solid #141922;
     margin: 0px 12px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.selezione > li > div > span {
+    color: #7d7f84;
+}
+
+.select {
+    border-bottom: 2px solid #adff2f;
 }
 
 .raccolta {
