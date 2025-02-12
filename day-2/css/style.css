@@ -22,6 +22,8 @@
 header {
     background-color: red;
     justify-content: space-between;
+    width: 1440px;
+    margin: 0px auto;
 }
 
 .logo {
@@ -32,6 +34,8 @@ header {
 /* Main */
 main {
     background-color: gray;
+    width: 1440px;
+    margin: 0px auto;
 }
 
 /* Sidebar */
@@ -55,9 +59,15 @@ a {
     width: 25%;
 }
 /* Schermata */
+.schermata {
+    flex-grow: 1;
+}
+
 .selezione {
     list-style: none;
     text-transform: uppercase;
+    margin: 0px auto;
+    justify-content: center;
 }
 
 .selezione > li > div {
@@ -68,4 +78,5 @@ a {
 /* Footer */
 footer {
     background-color: green;
+    width: 1440px;
 }
