@@ -8,6 +8,10 @@
     color: #ffffff;   
 }
 
+body {
+    background-color: #141922;
+}
+
 /* Utilities classes */
 .row {
     display: flex;
@@ -20,7 +24,7 @@
 
 /* Header */
 header {
-    background-color: red;
+    background-color: #080b12;
     justify-content: space-between;
     max-width: 1440px;
     margin: 0px auto;
@@ -50,7 +54,7 @@ main {
 /* Sidebar */
 /* Sopra */
 .sidebar {
-    background-color: blue;
+    background-color: #000000;
     width: 230px;
 }
 
@@ -67,7 +71,7 @@ a {
 }
 
 .elenco.selezionato {
-    border-left: 4px solid greenyellow;
+    border-left: 4px solid #adff2f;
     color: #ffffff;
     opacity: 100%;  
 }
@@ -103,7 +107,7 @@ ul {
 }
 
 .selezione > li > div {
-    border-bottom: 2px solid greenyellow;
+    border-bottom: 2px solid #adff2f;
     margin: 0px 12px;
 }
 
@@ -144,7 +148,7 @@ ul {
 
 /* Footer */
 footer {
-    background-color: green;
+    background-color: #282828;
     padding-right: 1440px;
     padding-bottom: 80px;
     position: fixed;
