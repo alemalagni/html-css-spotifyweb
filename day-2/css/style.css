@@ -89,6 +89,9 @@ h4.elenco{
     width: 15%;
 }
 
+.sotto {
+    padding-top: 50px;
+}
 
 /* Schermata */
 .schermata {
@@ -104,6 +107,7 @@ ul {
     margin: 0px auto;
     justify-content: center;
     padding-bottom: 30px;
+    color: #7d7f84;
 }
 
 .selezione > li > div {
@@ -118,7 +122,7 @@ ul {
 .raccolta > span {
     font-weight: bold;
     font-size: 10px;
-    color: #7d7f84
+    color: #7d7f84;
 }
 
 .raccolta > div > ul {
