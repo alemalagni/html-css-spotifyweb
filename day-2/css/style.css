@@ -40,19 +40,27 @@ header {
 .lap {
     display: none;
 }
+.bordo {
+    border-left: 5px solid;
+    border-right: 5px solid;
+}
+
+.bordo.selez {
+    border-left: 5px solid yellow;
+    margin-bottom: 10px;
+}
 
 .icona {
     width: calc(75%);
     padding-bottom: calc(75%);
     background-color: #5e5e5e;
     margin: 0px auto;
-    margin-bottom: 10px;
-    mask-size: cover;
-    
+    mask-size: cover;  
 }
 
 .icona.home {
     mask-image: url("../img/home.svg");
+    
 }
 
 .icona.search {
