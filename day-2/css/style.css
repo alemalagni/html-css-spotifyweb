@@ -22,6 +22,12 @@ header {
     background-color: red;
 }
 
+.logo {
+    background-color: white;
+    padding-bottom: 20px;
+    mask-image: url("../img/logo.svg");
+}
+
 /* Main */
 main {
     background-color: yellow;
