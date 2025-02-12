@@ -102,19 +102,18 @@ span {
 
 .bordo-account {
     background-color: gray;
-    padding: 10px 0px;
+    padding: calc(10%);
     border-radius: 50%;
 }
 
 .icona.account {
     background-color: #ffffff;
     mask-image: url("../img/profile.svg");
-    margin: 0px auto;
+    padding: 10px;
 }
 
 /* Main */
 main {
-    background-color: green;
     width: calc(87%);
     position: relative;
     left: calc(13%);
