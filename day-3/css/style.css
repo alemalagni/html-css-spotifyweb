@@ -318,6 +318,15 @@ footer {
     top: -9px;
 }
 
+.barra.volume {
+    width: 100px;
+    top: 0px;
+}
+
+.barra.volume > .palla {
+    left: 35px;
+}
+
 /* RESPONSIVE */
 @media screen and (max-width: 480px) {
     .lap {
