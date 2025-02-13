@@ -233,5 +233,14 @@ footer {
         mask-image: url("../img/logo-small.svg");
         background-color: #ffffff;
         margin: 10px;
+        mask-repeat: no-repeat;
+    }
+
+    .sidebar {
+        width: 50px;
+    }
+
+    .icona {
+        width: 100%;
     }
 }
