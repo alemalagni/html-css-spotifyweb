@@ -234,13 +234,12 @@ ul {
     display: none;
 }
 
-.musica:hover {
+.musica:hover > div {
     position: relative;
 }
 
 .musica:hover > div > img {
     opacity: 35%;
-
 }
 
 .musica:hover > div > i {
@@ -248,7 +247,7 @@ ul {
     display: block;
     position: absolute;
     top: 30%;
-    left: 43%;
+    left: 35%;
 }
 
 /* Footer */
