@@ -112,8 +112,19 @@ h4.elenco{
     margin-right: 5px;
 }
 
+/* Sotto */
 .sotto {
     padding-top: 50px;
+}
+
+.installa {
+    margin-bottom: 5px;
+}
+
+.profilo {
+    border-top: 1px solid white;
+    padding-top: 20px;
+    margin-top: 5px;
 }
 
 /* Schermata */
