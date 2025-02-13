@@ -166,15 +166,19 @@ ul {
     flex-wrap: wrap;
 }
 
-.selezione > li > div {
+.selezione > li > a > div {
     border-bottom: 2px solid #141922;
     margin: 0px 12px;
     font-size: 10px;
     font-weight: bold;
 }
 
-.selezione > li > div > span {
-    opacity: 75%;
+.selezione > li > a > div > span {
+    opacity: 50%;
+}
+
+.selezione > li > a > div > span:hover {
+    opacity: 100%;
 }
 
 .select {
