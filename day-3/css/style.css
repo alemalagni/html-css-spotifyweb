@@ -266,6 +266,10 @@ footer {
     align-items: center;
 }
 
+.player > div  {
+    align-items: center;
+}
+
 .riproduzione {
     width: 45px;
 }
@@ -277,6 +281,14 @@ footer {
 .player h6 {
     font-weight: normal;
     opacity: 50%;
+}
+
+.grow {
+    flex-grow: 1;
+}
+
+.wrap {
+    flex-wrap: wrap;
 }
 
 /* RESPONSIVE */
