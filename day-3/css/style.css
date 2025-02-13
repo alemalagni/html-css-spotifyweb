@@ -56,7 +56,6 @@ header {
 /* Main */
 main {
     max-width: 1440px;
-    margin: 20px auto;
 }
 
 /* Sidebar */
@@ -209,7 +208,7 @@ ul {
     padding-bottom: 30px;
 }
 
-.raccolta > div > ul > li > div > span{
+.musica > span{
     font-weight: bold;
     font-size: 10px;
     color: #7d7f84;
