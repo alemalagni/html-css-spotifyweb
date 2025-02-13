@@ -264,10 +264,12 @@ footer {
     margin: 0px auto;
     justify-content: space-between;
     align-items: center;
+    justify-items: center;
 }
 
 .player > div  {
     align-items: center;
+    justify-items: center;
 }
 
 .riproduzione {
@@ -289,6 +291,13 @@ footer {
 
 .wrap {
     flex-wrap: wrap;
+}
+
+.barra {
+    border-top: 1px solid gray;
+    width: 300px;
+    position: relative;
+    top: 10px;
 }
 
 /* RESPONSIVE */
