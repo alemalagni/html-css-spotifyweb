@@ -331,7 +331,7 @@ footer {
     left: 35px;
 }
 
-.icone-p > i {
+.icone-p > a > i {
     padding: 10px;
 }
 
@@ -341,6 +341,10 @@ footer {
 
 .pad {
     padding-left: 10px;
+}
+
+.player a {
+    opacity: 50%;
 }
 
 /* RESPONSIVE */
