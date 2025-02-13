@@ -85,8 +85,31 @@ h4.elenco{
     font-size: 10px;
 }
 
+.lap.p {
+    font-size: 13px;
+}
+
+.icona.crea {
+    text-align: center;
+    background-color: gray;
+    position: relative;
+    width: 0px;
+    padding: 10% 10%;
+}
+
+.icona.crea > span {
+    color: #000000;
+    font-size: 300%;
+    position: absolute;
+    top: -45%;
+    left: 0;
+    bottom: 0;
+    right: 0;   
+}
+
 .icona {
     width: 15%;
+    margin-right: 5px;
 }
 
 .sotto {
