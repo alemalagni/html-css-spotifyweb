@@ -221,12 +221,12 @@ ul {
     padding: 20px 0px 20px 15px;
 }
 
-.musica > img {
+.musica > div > img {
     width: 100%;
     margin-bottom: 10px;
 }
 
-.musica > i {
+.musica > div > i {
     display: none;
 }
 
@@ -234,17 +234,17 @@ ul {
     position: relative;
 }
 
-.musica:hover > img {
+.musica:hover > div > img {
     opacity: 35%;
 
 }
 
-.musica:hover > i {
+.musica:hover > div > i {
     font-size: 45px;
     display: block;
     position: absolute;
-    top: 35%;
-    left: 48%;
+    top: 30%;
+    left: 43%;
 }
 
 /* Footer */
