@@ -72,6 +72,10 @@ a {
     opacity: 75%;
 }
 
+.elenco:hover {
+    opacity: 100%;
+}
+
 .elenco.selezionato {
     border-left: 2px solid #adff2f;
     color: #ffffff;
@@ -170,7 +174,7 @@ ul {
 }
 
 .selezione > li > div > span {
-    color: #7d7f84;
+    opacity: 75%;
 }
 
 .select {
@@ -198,7 +202,7 @@ ul {
 .raccolta > div > ul > li > div > span{
     font-weight: bold;
     font-size: 10px;
-    color: #7d7f84
+    color: #7d7f84;
 }
 
 .musica {
