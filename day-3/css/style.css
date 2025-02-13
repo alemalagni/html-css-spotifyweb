@@ -129,10 +129,21 @@ h4.elenco{
     padding-top: 20px;
     margin-top: 5px;
     opacity: 100%;
+    align-self: center;
 }
 
 .round {
     background-color: gray;
+    border-radius: 50%;
+    position: relative;
+    padding: 10%;
+}
+
+.account {
+    position: absolute;
+    top: 0;
+    left: 0;
+    
 }
 
 /* Schermata */
