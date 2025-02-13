@@ -367,10 +367,21 @@ footer {
     }
 
     .sidebar {
-        width: 50px;
+        width: 30%;
     }
 
     .icona {
         width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .elenco {
+        padding: 0px;
+        margin: 0px;
+        border-left: 0px;
+    }
+
+    .elenco.selezionato {
+        border-left: 0px;
     }
 }
