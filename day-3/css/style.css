@@ -67,13 +67,13 @@ a {
 .elenco {
     align-items: center;
     padding: 0px 15px;
-    border-left: 4px solid #000000;
+    border-left: 2px solid #000000;
     margin: 20px 5px;
     opacity: 75%;
 }
 
 .elenco.selezionato {
-    border-left: 4px solid #adff2f;
+    border-left: 2px solid #adff2f;
     color: #ffffff;
     opacity: 100%;  
 }
@@ -143,7 +143,6 @@ h4.elenco{
     position: absolute;
     top: 0;
     left: 0;
-    
 }
 
 /* Schermata */
@@ -160,6 +159,7 @@ ul {
     margin: 0px auto;
     justify-content: center;
     padding-bottom: 30px;
+    flex-wrap: wrap;
 }
 
 .selezione > li > div {
