@@ -22,6 +22,11 @@ body {
     flex-direction: column;
 }
 
+.text {
+    font-weight: bold;
+    font-size: 10px;
+}
+
 /* Header */
 header {
     background-color: #080b12;
@@ -125,6 +130,7 @@ h4.elenco{
     border-top: 1px solid white;
     padding-top: 20px;
     margin-top: 5px;
+    opacity: 100%;
 }
 
 /* Schermata */
