@@ -226,6 +226,10 @@ ul {
     margin-bottom: 10px;
 }
 
+.musica:hover > img {
+    opacity: 35%;
+}
+
 /* Footer */
 footer {
     background-color: #282828;
