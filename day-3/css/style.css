@@ -301,10 +301,21 @@ footer {
 }
 
 .barra.due {
+    border-top: 1px solid greenyellow;
     position: absolute;
     left: 0px;
     width: 35%;
-    top: -10px;
+    top: -1px;
+}
+
+.barra.palla {
+    background-color: white;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    left: 105px;
+    top: -9px;
 }
 
 /* RESPONSIVE */
