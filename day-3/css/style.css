@@ -228,4 +228,10 @@ footer {
     .lap {
         display: none;
     }
+
+    .logo {
+        mask-image: url("../img/logo-small.svg");
+        background-color: #ffffff;
+        margin: 10px;
+    }
 }
