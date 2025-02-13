@@ -285,8 +285,12 @@ footer {
     opacity: 50%;
 }
 
-.shrink {
+.centrale {
     flex-shrink: 1;
+}
+
+.centrale > div > span {
+    padding: 5px;
 }
 
 .wrap {
@@ -325,6 +329,14 @@ footer {
 
 .barra.volume > .palla {
     left: 35px;
+}
+
+.icone-p > i {
+    padding: 10px;
+}
+
+.grosso {
+    font-size: 25px;
 }
 
 /* RESPONSIVE */
