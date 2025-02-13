@@ -329,7 +329,7 @@ footer {
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    left: 105px;
+    left: calc(33%);
     top: -9px;
 }
 
