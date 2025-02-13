@@ -226,8 +226,25 @@ ul {
     margin-bottom: 10px;
 }
 
+.musica > i {
+    display: none;
+}
+
+.musica:hover {
+    position: relative;
+}
+
 .musica:hover > img {
     opacity: 35%;
+
+}
+
+.musica:hover > i {
+    font-size: 45px;
+    display: block;
+    position: absolute;
+    top: 35%;
+    left: 48%;
 }
 
 /* Footer */
