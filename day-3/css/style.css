@@ -45,12 +45,18 @@ header {
     padding: 7px 25px;
     border: 1px solid #ffffff;
     border-radius: 50px;
+    margin: 0px 20px;
+}
+
+.upgrade:hover {
+    font-size: 12px;
+    margin: 0px auto;
 }
 
 /* Main */
 main {
     max-width: 1440px;
-    margin: 0px auto;
+    margin: 20px auto;
 }
 
 /* Sidebar */
