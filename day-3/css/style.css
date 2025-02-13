@@ -157,6 +157,8 @@ h4.elenco{
 /* Schermata */
 .schermata {
     flex-grow: 1;
+    margin-top: 20px;
+    padding-bottom: 80px;
 }
 
 ul {
