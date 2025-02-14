@@ -31,7 +31,6 @@ body {
 header {
     background-color: #080b12;
     justify-content: space-between;
-    max-width: 1440px;
     margin: 0px auto;
     align-items: center;
 }
@@ -55,8 +54,8 @@ header {
 
 /* Main */
 main {
-    max-width: 1440px;
     margin: 0px auto;
+    height: 100%;
 }
 
 /* Sidebar */
